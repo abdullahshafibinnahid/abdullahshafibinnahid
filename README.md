@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**abdullahshafibinnahid/abdullahshafibinnahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone, this is me **Abdullah Shafi Bin Nahid**, from `Bangladesh`. I am a student, and my hobbies are **developing**, **machine learning**, and also **hacking** my friends' accounts. Btw, want to see my projects? see ->
+1. `Harry Potter Hogwarts House Classification using catboost in kaggle`
+2. `NebulaBrowser: AI Intergrated`
+3. `banglabudhdhi: LLM in Bangla`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### By the way, I will give all of my works in my github. So let's go with me!
+
+## My achievements ->
+1. **1st in Bangladesh Physics Olympiad 2026 (A category)**
+2. **2 times national winner in Bangladesh Mathematical Olympiad 2025, 2026 (primary and junior category)**
+3. **Bangladesh Junior Science Olympiad 2025 national winner and camper (junior category)**
+4. **Bangladesh Artificial  Intelligence Olympiad 2026 national camper**
+5. **Bangladesh Olympiad On Astronomy And Astrophysics 2026 12th and national camper (junior category)**
+6. **3rd in Bangladesh Astro Olympiad (Apex Astro Olympiad) 2025 (junior category)**
+
+---
+
+I want to be a computational astrophyscicist and ML enthausist. So, i am learning ml and astro coz i am nooob!!
+Hacking my frineds is my favourite work!! 
+**Bye**!!
+
+---
