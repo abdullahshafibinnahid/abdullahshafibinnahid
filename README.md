@@ -1,4 +1,4 @@
-[![Typing SVG](https://demolab.com!)](https://git.io/typing-svg)
+# Hello all!
 
 Hello everyone, this is me **Abdullah Shafi Bin Nahid**, from `Bangladesh`. I am a student, and my hobbies are **developing**, **machine learning**, and also **hacking** my friends' accounts. Btw, want to see my projects? see ->
 1. `Harry Potter Hogwarts House Classification using catboost in kaggle`
