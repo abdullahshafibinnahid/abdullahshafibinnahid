@@ -1,4 +1,4 @@
-# Hello all!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&width=435&lines=Hi+friends!;Its+me%2C;Abdullah+Shafi+Bin+Nahid;I+am+a+script+kid)](https://git.io/typing-svg)
 
 Hello everyone, this is me **Abdullah Shafi Bin Nahid**, from `Bangladesh`. I am a student, and my hobbies are **developing**, **machine learning**, and also **hacking** my friends' accounts. Btw, want to see my projects? see ->
 1. `Harry Potter Hogwarts House Classification using catboost in kaggle`
