@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&width=435&lines=Hi+friends!;Its+me%2C;Abdullah+Shafi+Bin+Nahid;I+am+a+script+kid)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=1000&width=435&lines=Hi+friends!;Its+me%2C;Abdullah+Shafi+Bin+Nahid;I+am+a+script+kid)](https://git.io/typing-svg)
 
 Hello everyone, this is me **Abdullah Shafi Bin Nahid**, from `Bangladesh`. I am a student, and my hobbies are **developing**, **machine learning**, and also **hacking** my friends' accounts. Btw, want to see my projects? see ->
 1. `Harry Potter Hogwarts House Classification using catboost in kaggle`
@@ -22,5 +22,13 @@ Hello everyone, this is me **Abdullah Shafi Bin Nahid**, from `Bangladesh`. I am
 I want to be a computational astrophyscicist and ML enthausist. So, i am learning ml and astro coz i am nooob!!
 Hacking my frineds is my favourite work!! 
 **Bye**!!
+
+---
+
+<img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahshafibinnahid&theme=tokyonight" />
+
+---
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahshafibinnahid&theme=tokyo-night&hide_border=true" />
 
 ---
