@@ -25,10 +25,6 @@ Hacking my frineds is my favourite work!!
 
 ---
 
-<img width="85%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahshafibinnahid&theme=tokyonight" />
-
----
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahshafibinnahid&theme=tokyo-night&hide_border=true" />
 
 ---
